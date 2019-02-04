@@ -1,0 +1,6 @@
+=num(
+Count({1<controle_minuta_status={'AUTENTICADO'}, controle_minuta_ano_envio = {'2018'},confirmacao_comando_investigador = {'SERIPA-6'}>} ocorrencia_classificacao)
+/
+Count({1<confirmacao_sera_investigada={'SIM'}, ocorrencia_ano = {'2018'},confirmacao_comando_investigador = {'SERIPA-6'}>} ocorrencia_classificacao),
+'0,00')
+

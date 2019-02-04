@@ -1,0 +1,10 @@
+chisq       df      cfi      tli    rmsea     srmr      gfi     agfi 
+1486.469  712.000    0.803    0.785    0.072    0.082    0.740    0.700 
+
+
+chisq       df      cfi      tli    rmsea     srmr      gfi     agfi 
+1360.566  644.000    0.806    0.788    0.073    0.078    0.745    0.707 
+
+
+chisq       df      cfi      tli    rmsea     srmr      gfi     agfi 
+1529.620  751.000    0.803    0.784    0.071    0.082    0.738    0.699 
