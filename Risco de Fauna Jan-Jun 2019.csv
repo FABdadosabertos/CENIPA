@@ -1,4 +1,4 @@
-Tipo de Reporte;Matricula;Aeródromo;Data;Hora;Fase do Voo;Efeito no voo
+Tipo de Reporte,Matricula,Aeródromo,Data,Hora,Fase do Voo,Efeito no voo
 AVISTAMENTO;;SBKP;30/06/2019;18:04;Revisão de pista;Nenhum
 AVISTAMENTO;D2TEG;SBGR;30/06/2019;18:46;Decolagem;Nenhum
 AVISTAMENTO;;SBKP;30/06/2019;21:10;Revisão de pista;Nenhum
