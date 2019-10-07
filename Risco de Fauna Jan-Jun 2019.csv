@@ -1,4 +1,4 @@
-Tipo de Reporte;Matricula;Aeródromo;Data;Hora ;Fase do Voo;Efeito no voo
+Tipo de Reporte;Matricula;Aeródromo;Data;Hora;Fase do Voo;Efeito no voo
 AVISTAMENTO;;SBKP;30/06/2019;18:04;Revisão de pista;Nenhum
 AVISTAMENTO;D2TEG;SBGR;30/06/2019;18:46;Decolagem;Nenhum
 AVISTAMENTO;;SBKP;30/06/2019;21:10;Revisão de pista;Nenhum
@@ -174,7 +174,7 @@ COLISÃO;PRATA;SWFN;19/06/2019;09:55;Subida;Pouso de precaução
 AVISTAMENTO;PRNED;SBBH;19/06/2019;13:06;Aproximação;Não reportada
 AVISTAMENTO;PPPFD;SBBH;19/06/2019;16:46;Aproximação;Não reportada
 AVISTAMENTO;;SBSP;19/06/2019;08:30;Revisão de pista;Nenhum
-QUASE COLISÃO;FAB5923;SBSJ;19/06/2019;12:30;Aproximação;Nenhum,outros
+QUASE COLISÃO;FAB5923;SBSJ;19/06/2019;12:30;Aproximação;Nenhum e outros
 AVISTAMENTO;PTMEY;SDAG;19/06/2019;12:57;Estacionamento;Nenhum
 AVISTAMENTO;PUSAM;SBSM;19/06/2019;15:57;Pouso;Nenhum
 AVISTAMENTO;FAB2010;SBSJ;19/06/2019;16:00;Aproximação;Nenhum
@@ -218,7 +218,7 @@ COLISÃO;PTMXF;SBEG;17/06/2019;22:32;Pouso;Nenhum
 AVISTAMENTO;;SBPB;16/06/2019;07:15;Revisão de pista;Nenhum
 AVISTAMENTO;;SBMQ;16/06/2019;08:30;Revisão de pista;Nenhum
 AVISTAMENTO;;SBCT;16/06/2019;22:31;Revisão de pista;Nenhum
-QUASE COLISÃO;FAB2013;SBGL;16/06/2019;13:15;Aproximação;Nenhum,outros
+QUASE COLISÃO;FAB2013;SBGL;16/06/2019;13:15;Aproximação;Nenhum e outros
 AVISTAMENTO;;SBSP;16/06/2019;16:24;Revisão de pista;Nenhum
 COLISÃO;PRTKM;SBDO;16/06/2019;01:08;Aproximação;Nenhum
 COLISÃO;PRGEK;SBPA;16/06/2019;17:00;Inspeção de trânsito/intervoo;Nenhum
@@ -581,7 +581,7 @@ AVISTAMENTO;2318;SBNT;31/05/2019;09:07;Aproximação;Desestabilização na aprox
 AVISTAMENTO;2318;SBNT;31/05/2019;07:00;Decolagem;Nenhum
 AVISTAMENTO;2312;SBNT;31/05/2019;09:30;Aproximação;Nenhum
 COLISÃO;2318;SBNT;31/05/2019;11:00;Aproximação;Pouso de precaução
-COLISÃO;PRIRN;SBRF;31/05/2019;07:50;Pouso;Nenhum,outros
+COLISÃO;PRIRN;SBRF;31/05/2019;07:50;Pouso;Nenhum e outros
 AVISTAMENTO;;SBKP;31/05/2019;04:40;Revisão de pista;Nenhum
 COLISÃO;PRAXT;SBPA;31/05/2019;15:45;Pouso;Nenhum
 AVISTAMENTO;TAM3408;SBIL;31/05/2019;15:48;Aproximação;Nenhum
@@ -645,7 +645,7 @@ AVISTAMENTO;;SBSP;29/05/2019;10:13;Revisão de pista;Nenhum
 COLISÃO;PRYRR;SBPA;29/05/2019;16:25;Decolagem;Nenhum
 AVISTAMENTO;2285;SBNT;29/05/2019;14:40;Aproximação;Nenhum
 AVISTAMENTO;2285;SBNT;29/05/2019;14:39;Aproximação;Nenhum
-QUASE COLISÃO;2285;SBNT;29/05/2019;14:39;Pouso;Nenhum,outros
+QUASE COLISÃO;2285;SBNT;29/05/2019;14:39;Pouso;Nenhum e outros
 QUASE COLISÃO;2285;SBNT;29/05/2019;14:55;Aproximação;Desestabilização na aproximação
 AVISTAMENTO;GLO1335;SBDN;29/05/2019;13:38;Decolagem;Nenhum
 AVISTAMENTO;1853;SBYS;29/05/2019;11:35;Aproximação;Nenhum
@@ -845,7 +845,7 @@ QUASE COLISÃO;1852;SBYS;22/05/2019;11:40;Aproximação;Desestabilização na ap
 QUASE COLISÃO;1852;SBYS;22/05/2019;11:30;Decolagem;
 QUASE COLISÃO;1852;SBYS;22/05/2019;11:40;Aproximação;Desestabilização na aproximação
 QUASE COLISÃO;1852;SBYS;22/05/2019;11:50;Aproximação;Desestabilização na aproximação
-QUASE COLISÃO;PROHD;SBJR;22/05/2019;12:25;Pouso;Nenhum,outros
+QUASE COLISÃO;PROHD;SBJR;22/05/2019;12:25;Pouso;Nenhum e outros
 COLISÃO;PTTML;SBCT;22/05/2019;05:30;Pouso;Nenhum
 AVISTAMENTO;;SBKP;22/05/2019;17:47;Revisão de pista;Nenhum
 AVISTAMENTO;4001;SBES;22/05/2019;08:14;Táxi;Nenhum
@@ -966,7 +966,7 @@ AVISTAMENTO;;SBBE;18/05/2019;10:30;Revisão de pista;Nenhum
 QUASE COLISÃO;FAB2330;SBAF;18/05/2019;12:47;Aproximação;outros
 COLISÃO;PTXPB;SBEG;17/05/2019;16:00;Descida;Nenhum
 AVISTAMENTO;;SBPB;17/05/2019;07:30;Revisão de pista;Nenhum
-QUASE COLISÃO;PPPTN;SBRP;17/05/2019;10:21;Aproximação;Não reportada,outros
+QUASE COLISÃO;PPPTN;SBRP;17/05/2019;10:21;Aproximação;Não reportada e outros
 AVISTAMENTO;PPDLC;SBPJ;17/05/2019;13:11;Aproximação;Nenhum
 COLISÃO;PRAQR;SBUL;17/05/2019;13:28;Pouso;Nenhum
 AVISTAMENTO;2323;SBNT;17/05/2019;13:45;Aproximação;Nenhum
@@ -1003,7 +1003,7 @@ AVISTAMENTO;FAB5902;SBNT;16/05/2019;14:14;Aproximação;Nenhum
 AVISTAMENTO;;SBSP;16/05/2019;16:30;Revisão de pista;Nenhum
 AVISTAMENTO;FAB4870;SBAN;16/05/2019;16:10;Decolagem;Nenhum
 COLISÃO;;SBSP;16/05/2019;16:30;Revisão de pista;Nenhum
-QUASE COLISÃO;NIL;SBRJ;16/05/2019;13:52;Pouso;Nenhum,outros
+QUASE COLISÃO;NIL;SBRJ;16/05/2019;13:52;Pouso;Nenhum e outros
 QUASE COLISÃO;1022;SBES;16/05/2019;11:30;Aproximação;Desestabilização na aproximação
 COLISÃO;FAB1372;SBYS;16/05/2019;12:46;Aproximação;Pouso de precaução
 AVISTAMENTO;FAB1448;SBYS;16/05/2019;12:45;Aproximação;Nenhum
@@ -1419,7 +1419,7 @@ AVISTAMENTO;FAB1941;SBYS;03/05/2019;14:00;Decolagem;Nenhum
 AVISTAMENTO;;SBSP;03/05/2019;11:31;Revisão de pista;Nenhum
 AVISTAMENTO;FAB7103;SBCT;03/05/2019;10:40;Subida;Nenhum
 AVISTAMENTO;;SBSP;03/05/2019;17:36;Revisão de pista;Nenhum
-QUASE COLISÃO;5054;SBES;03/05/2019;10:00;Aproximação;Desestabilização na aproximação,outros
+QUASE COLISÃO;5054;SBES;03/05/2019;10:00;Aproximação;Desestabilização na aproximação e outros
 AVISTAMENTO;5054;SBES;03/05/2019;08:20;Decolagem;Nenhum
 QUASE COLISÃO;5054;SBES;03/05/2019;09:00;Aproximação;Nenhum
 AVISTAMENTO;5041;SBES;03/05/2019;11:00;Aproximação;outros
@@ -1589,7 +1589,7 @@ COLISÃO;PRYRO;SBPL;29/04/2019;02:28;Pouso;Nenhum
 COLISÃO;PRAXD;SBMA;29/04/2019;03:09;Descida;Nenhum
 AVISTAMENTO;;SBPB;29/04/2019;08:30;Revisão de pista;Nenhum
 AVISTAMENTO;;SBSJ;29/04/2019;10:30;Revisão de pista;Nenhum
-COLISÃO;PRZFV;SBSJ;29/04/2019;13:00;Decolagem;Nenhum,outros
+COLISÃO;PRZFV;SBSJ;29/04/2019;13:00;Decolagem;Nenhum e outros
 AVISTAMENTO;;SBCO;29/04/2019;13:37;Decolagem;Nenhum
 COLISÃO;1880;SBYS;29/04/2019;12:50;Aproximação;Nenhum
 QUASE COLISÃO;PRYRN;SBPA;29/04/2019;13:55;Decolagem;Nenhum
@@ -1694,7 +1694,7 @@ COLISÃO;PRAUO;SBFN;26/04/2019;14:39;Decolagem;Nenhum
 AVISTAMENTO;FAB2101;SBSJ;26/04/2019;10:05;Aproximação;Nenhum
 COLISÃO;PRAXY;SBTF;26/04/2019;17:30;Decolagem;Nenhum
 COLISÃO;5946;SBNT;26/04/2019;15:00;Pouso;Nenhum
-QUASE COLISÃO;FAB8906;SBMN;26/04/2019;14:50;Decolagem;Nenhum,outros
+QUASE COLISÃO;FAB8906;SBMN;26/04/2019;14:50;Decolagem;Nenhum e outros
 AVISTAMENTO;PTMXC;SBPA;26/04/2019;18:30;Táxi;Nenhum
 AVISTAMENTO;;SBRF;26/04/2019;16:00;Revisão de pista;Nenhum
 AVISTAMENTO;PRSPG;SBDN;26/04/2019;16:52;Pouso;Nenhum
@@ -1780,7 +1780,7 @@ QUASE COLISÃO;5046;SBES;25/04/2019;16:00;Aproximação;outros
 COLISÃO;PTIZS;SBMT;24/04/2019;10:29;Decolagem;Nenhum
 AVISTAMENTO;PRVBV;SBJV;24/04/2019;17:55;Decolagem;Nenhum
 COLISÃO;PRAQV;SBDO;24/04/2019;20:00;Pouso;Nenhum
-AVISTAMENTO;;SBPS;24/04/2019;18:00;Revisão de pista;Não reportada,outros
+AVISTAMENTO;;SBPS;24/04/2019;18:00;Revisão de pista;Não reportada e outros
 QUASE COLISÃO;5046;SBES;24/04/2019;10:10;Aproximação;outros
 QUASE COLISÃO;5039;SBES;24/04/2019;12:45;Aproximação;outros
 AVISTAMENTO;;SBKP;24/04/2019;08:54;Revisão de pista;Nenhum
@@ -2193,7 +2193,7 @@ AVISTAMENTO;;SBSP;12/04/2019;16:25;Revisão de pista;Nenhum
 AVISTAMENTO;;SBSP;12/04/2019;09:21;Revisão de pista;Nenhum
 COLISÃO;PRAQK;SBSR;12/04/2019;00:25;Pouso;Nenhum
 QUASE COLISÃO;5039;SBES;12/04/2019;16:40;Subida;outros
-QUASE COLISÃO;5039;SBES;12/04/2019;14:15;Aproximação;Desestabilização na aproximação,outros
+QUASE COLISÃO;5039;SBES;12/04/2019;14:15;Aproximação;Desestabilização na aproximação e outros
 QUASE COLISÃO;5048;SBES;12/04/2019;15:10;Subida;outros
 AVISTAMENTO;5048;SBES;12/04/2019;18:15;Subida;Nenhum
 QUASE COLISÃO;5048;SBES;12/04/2019;11:25;Aproximação;outros
@@ -2491,7 +2491,7 @@ AVISTAMENTO;4009;SBES;04/04/2019;09:20;Táxi;Nenhum
 AVISTAMENTO;4004;SBES;04/04/2019;09:00;Táxi;Nenhum
 AVISTAMENTO;;SBES;04/04/2019;09:00;Cruzeiro;Nenhum
 AVISTAMENTO;;SBES;04/04/2019;10:00;Cruzeiro;Nenhum
-QUASE COLISÃO;1425;SBYS;03/04/2019;11:35;Aproximação;Desestabilização na aproximação,outros
+QUASE COLISÃO;1425;SBYS;03/04/2019;11:35;Aproximação;Desestabilização na aproximação e outros
 COLISÃO;PRVBN;SBPL;03/04/2019;01:13;Pouso;Nenhum
 QUASE COLISÃO;PRLDG;9PER PLATAFORMA MARíTIMA;03/04/2019;07:42;Aproximação;Desestabilização na aproximação
 AVISTAMENTO;;SBPB;03/04/2019;07:31;Estacionamento;Nenhum
@@ -2533,7 +2533,7 @@ AVISTAMENTO;5039;SBES;03/04/2019;10:30;Subida;outros
 QUASE COLISÃO;5039;SBES;03/04/2019;10:50;Aproximação;outros
 QUASE COLISÃO;5039;SBES;03/04/2019;10:50;Aproximação;outros
 AVISTAMENTO;;SBKP;03/04/2019;09:52;Revisão de pista;Nenhum
-AVISTAMENTO;1393;SBYS;03/04/2019;13:10;Decolagem;Nenhum,outros
+AVISTAMENTO;1393;SBYS;03/04/2019;13:10;Decolagem;Nenhum e outros
 AVISTAMENTO;4009;SBES;03/04/2019;15:08;Táxi;Nenhum
 AVISTAMENTO;4004;SBES;03/04/2019;14:15;Táxi;Nenhum
 AVISTAMENTO;;SBVT;03/04/2019;20:50;Revisão de pista;Nenhum
@@ -2623,7 +2623,7 @@ QUASE COLISÃO;1900;SBYS;01/04/2019;09:55;Decolagem;Nenhum
 AVISTAMENTO;;SBKP;01/04/2019;17:20;Revisão de pista;Nenhum
 COLISÃO;PRGTM;SBGR;01/04/2019;00:40;Subida;Nenhum
 QUASE COLISÃO;5728;SBBV;01/04/2019;16:10;Subida;outros
-COLISÃO;PTMXP;SBGR;01/04/2019;15:51;Pouso;Não reportada,outros
+COLISÃO;PTMXP;SBGR;01/04/2019;15:51;Pouso;Não reportada e outros
 COLISÃO;PRAYX;SBKP;01/04/2019;08:43;Aproximação;Nenhum
 COLISÃO;PRATV;SBUR;01/04/2019;17:19;Pouso;Nenhum
 COLISÃO;PRGTF;SBGR;01/04/2019;20:45;Descida;Nenhum
@@ -2915,7 +2915,7 @@ AVISTAMENTO;;SBES;25/03/2019;16:30;Aproximação;Nenhum
 QUASE COLISÃO;1331;SBYS;25/03/2019;14:25;Aproximação;Nenhum
 COLISÃO;PRMAO;SBRP;25/03/2019;10:00;Inspeção de trânsito/intervoo;Nenhum
 AVISTAMENTO;PRAQI;SBMK;25/03/2019;19:38;Decolagem;Nenhum
-QUASE COLISÃO;2300;SBAF;25/03/2019;11:40;Cruzeiro;Não reportada,outros
+QUASE COLISÃO;2300;SBAF;25/03/2019;11:40;Cruzeiro;Não reportada e outros
 COLISÃO;PTMZW;SBJV;25/03/2019;19:15;Subida;Nenhum
 AVISTAMENTO;;SBKP;25/03/2019;07:23;Revisão de pista;Nenhum
 AVISTAMENTO;8774;SBNT;25/03/2019;10:00;Subida;Nenhum
@@ -3217,7 +3217,7 @@ COLISÃO;PRAUB;SBBE;16/03/2019;05:29;Pouso;Nenhum
 AVISTAMENTO;4001;SBES;15/03/2019;09:27;Táxi;Nenhum
 QUASE COLISÃO;7101;SBBE;15/03/2019;09:05;Aproximação;Desestabilização na aproximação
 COLISÃO;PRBET;SBBE;15/03/2019;09:42;Táxi;Nenhum
-QUASE COLISÃO;7101;SBBE;15/03/2019;09:00;Aproximação;Desestabilização na aproximação,outros
+QUASE COLISÃO;7101;SBBE;15/03/2019;09:00;Aproximação;Desestabilização na aproximação e outros
 AVISTAMENTO;;SBRF;15/03/2019;07:30;Revisão de pista;Nenhum
 AVISTAMENTO;PRCDV;SBCB;15/03/2019;13:01;Pouso;Nenhum
 AVISTAMENTO;;SBCO;15/03/2019;14:00;Estacionamento;Nenhum
@@ -3744,12 +3744,12 @@ QUASE COLISÃO;PRTTK;SWCA;25/02/2019;15:07;Aproximação;Nenhum
 QUASE COLISÃO;PTSOK;SBMQ;25/02/2019;16:34;Decolagem;Não reportada
 AVISTAMENTO;;SBRF;25/02/2019;15:00;Revisão de pista;Nenhum
 AVISTAMENTO;;SBSP;25/02/2019;16:17;Revisão de pista;Nenhum
-QUASE COLISÃO;1022;SBES;25/02/2019;16:20;Aproximação;Pouso de precaução,outros
+QUASE COLISÃO;1022;SBES;25/02/2019;16:20;Aproximação;Pouso de precaução e outros
 AVISTAMENTO;8519;SBNT;25/02/2019;16:10;Aproximação;Desestabilização na aproximação
 AVISTAMENTO;;SBKP;25/02/2019;13:34;Revisão de pista;Nenhum
 COLISÃO;PTMXE;SDSC;25/02/2019;09:10;Pouso;Nenhum
 AVISTAMENTO;;SBKP;25/02/2019;21:39;Revisão de pista;Nenhum
-COLISÃO;;SBGR;25/02/2019;20:25;Revisão de pista;Nenhum,outros
+COLISÃO;;SBGR;25/02/2019;20:25;Revisão de pista;Nenhum e outros
 COLISÃO;2341;SBGO;25/02/2019;12:00;Subida;Nenhum
 AVISTAMENTO;;SBVT;25/02/2019;21:20;Revisão de pista;Nenhum
 AVISTAMENTO;;SBBV;25/02/2019;14:45;Aproximação;Nenhum
@@ -4040,7 +4040,7 @@ AVISTAMENTO;1426;SBYS;14/02/2019;10:34;Aproximação;Nenhum
 AVISTAMENTO;1416;SBYS;14/02/2019;10:58;Aproximação;Nenhum
 COLISÃO;;SBSV;14/02/2019;15:41;Revisão de pista;Não reportada
 COLISÃO;4812;SBGO;14/02/2019;16:30;Decolagem;Nenhum
-QUASE COLISÃO;FAB5534;SBSM;14/02/2019;12:00;Aproximação;Desestabilização na aproximação,outros
+QUASE COLISÃO;FAB5534;SBSM;14/02/2019;12:00;Aproximação;Desestabilização na aproximação e outros
 AVISTAMENTO;;SBVT;14/02/2019;21:40;Revisão de pista;Nenhum
 COLISÃO;;SBVT;14/02/2019;16:45;Revisão de pista;Não reportada
 AVISTAMENTO;;SBES;14/02/2019;08:00;Subida;Nenhum
@@ -4055,7 +4055,7 @@ QUASE COLISÃO;FAB1377;SBYS;14/02/2019;12:30;Aproximação;outros
 AVISTAMENTO;8774;SBNT;14/02/2019;14:00;Subida;Nenhum
 COLISÃO;1372;SBYS;14/02/2019;10:20;Aproximação;Desestabilização na aproximação
 COLISÃO;PRAZG;SBRJ;14/02/2019;22:14;Aproximação;Nenhum
-AVISTAMENTO;;SBYS;14/02/2019;17:15;Revisão de pista;Nenhum,Não reportada
+AVISTAMENTO;;SBYS;14/02/2019;17:15;Revisão de pista;Nenhum e Não reportada
 AVISTAMENTO;1377;SBYS;14/02/2019;12:30;Aproximação;Nenhum
 AVISTAMENTO;FAB1414;SBYS;14/02/2019;12:00;Pouso;Nenhum
 AVISTAMENTO;1426;SBYS;14/02/2019;10:40;Aproximação;Nenhum
@@ -4657,7 +4657,7 @@ AVISTAMENTO;;SBCG;26/01/2019;23:35;Revisão de pista;Nenhum
 AVISTAMENTO;PPVDR;SBRJ;26/01/2019;09:02;Estacionamento;Nenhum
 AVISTAMENTO;;SBSP;26/01/2019;15:35;Revisão de pista;Nenhum
 QUASE COLISÃO;5054;SBES;26/01/2019;13:00;Aproximação;outros
-COLISÃO;CCCXG;SBGL;26/01/2019;12:00;Pouso;Pouso de precaução,outros
+COLISÃO;CCCXG;SBGL;26/01/2019;12:00;Pouso;Pouso de precaução e outros
 AVISTAMENTO;;SBCG;26/01/2019;16:31;Revisão de pista;Nenhum
 AVISTAMENTO;5054;SBES;26/01/2019;08:30;Decolagem;Nenhum
 QUASE COLISÃO;PROBH;SBGL;26/01/2019;12:10;Aproximação;outros
@@ -4704,7 +4704,7 @@ AVISTAMENTO;;SBEG;25/01/2019;10:29;Revisão de pista;Não reportada
 AVISTAMENTO;5056;SBES;25/01/2019;10:00;Decolagem;Nenhum
 QUASE COLISÃO;5054;SBES;25/01/2019;10:00;Aproximação;outros
 QUASE COLISÃO;2740;SBMN;25/01/2019;16:00;Aproximação;Desestabilização na aproximação
-QUASE COLISÃO;PTVSU;SBMO;25/01/2019;10:00;Pouso;Desestabilização na aproximação,outros
+QUASE COLISÃO;PTVSU;SBMO;25/01/2019;10:00;Pouso;Desestabilização na aproximação e outros
 AVISTAMENTO;1022;SBES;25/01/2019;15:00;Decolagem;Nenhum
 AVISTAMENTO;;SBCR;25/01/2019;06:20;Revisão de pista;Nenhum
 AVISTAMENTO;;SBES;25/01/2019;08:30;Subida;Nenhum
@@ -4820,7 +4820,7 @@ AVISTAMENTO;PTOFY;SBBH;22/01/2019;11:10;Descida;Nenhum
 COLISÃO;PRAKA;SBRF;22/01/2019;15:40;Táxi;Nenhum
 AVISTAMENTO;;SBJC;22/01/2019;11:30;Revisão de pista;Nenhum
 COLISÃO;;SBSV;22/01/2019;17:43;Revisão de pista;Não reportada
-COLISÃO;AEA 048;SBRF;22/01/2019;23:57;Decolagem;Nenhum,outros
+COLISÃO;AEA 048;SBRF;22/01/2019;23:57;Decolagem;Nenhum e outros
 COLISÃO;PRVBW;SBBR;22/01/2019;16:26;Decolagem;Nenhum
 AVISTAMENTO;5054;SBES;22/01/2019;08:40;Aproximação;Nenhum
 AVISTAMENTO;5054;SBES;22/01/2019;12:00;Aproximação;Nenhum
@@ -5050,7 +5050,7 @@ AVISTAMENTO;;SBGL;18/01/2019;07:22;Revisão de pista;Nenhum
 AVISTAMENTO;;SBGL;18/01/2019;09:01;Revisão de pista;Nenhum
 AVISTAMENTO;;SBGL;18/01/2019;12:11;Revisão de pista;Nenhum
 COLISÃO;PRAKJ;SBML;17/01/2019;00:25;Pouso;Não reportada
-QUASE COLISÃO;4009;SBES;17/01/2019;08:00;Aproximação;Desestabilização na aproximação,outros
+QUASE COLISÃO;4009;SBES;17/01/2019;08:00;Aproximação;Desestabilização na aproximação e outros
 COLISÃO;;SBCT;17/01/2019;06:00;Revisão de pista;Não reportada
 COLISÃO;;SBCT;17/01/2019;06:10;Revisão de pista;Não reportada
 AVISTAMENTO;;SBMQ;17/01/2019;06:50;Revisão de pista;Nenhum
@@ -5267,7 +5267,7 @@ AVISTAMENTO;;SBEG;12/01/2019;12:00;Táxi;Nenhum
 AVISTAMENTO;PRAYK;SBFN;12/01/2019;14:35;Táxi;Nenhum
 COLISÃO;PRYRV;SBRF;12/01/2019;15:50;Pouso;Nenhum
 AVISTAMENTO;;REC;12/01/2019;17:00;Revisão de pista;Nenhum
-COLISÃO;PRAUB;SBJP;12/01/2019;19:00;Decolagem;Pouso de precaução,outros
+COLISÃO;PRAUB;SBJP;12/01/2019;19:00;Decolagem;Pouso de precaução e outros
 COLISÃO;A6EGI;SBGL;12/01/2019;03:34;Decolagem;Não reportada
 COLISÃO;PRMBS;SBSP;12/01/2019;11:12;Subida;Não reportada
 COLISÃO;;SBSP;12/01/2019;09:00;Inspeção de trânsito/intervoo;Não reportada
@@ -5434,7 +5434,7 @@ AVISTAMENTO;PPAHO;SBIL;06/01/2019;10:18;Pouso;Nenhum
 AVISTAMENTO;PRPSB;SBIL;06/01/2019;13:10;Pouso;Nenhum
 COLISÃO;PPFHT;SBBI;06/01/2019;15:45;Pouso;Não reportada
 COLISÃO;;SBBI;06/01/2019;17:20;Revisão de pista;Não reportada
-COLISÃO;PRAYL;SBRF;06/01/2019;19:32;Pouso;Nenhum,outros
+COLISÃO;PRAYL;SBRF;06/01/2019;19:32;Pouso;Nenhum e outros
 AVISTAMENTO;;SBSP;06/01/2019;09:32;Revisão de pista;Nenhum
 COLISÃO;;SBBR;06/01/2019;01:00;Revisão de pista;Nenhum
 QUASE COLISÃO;3037;SBES;06/01/2019;12:00;Pouso;Desestabilização na aproximação
@@ -5457,7 +5457,7 @@ AVISTAMENTO;;SBJU;05/01/2019;12:40;Revisão de pista;Nenhum
 COLISÃO;PROCM;SBSV;05/01/2019;15:15;Aproximação;Não reportada
 COLISÃO;;SBBR;05/01/2019;13:00;Revisão de pista;Nenhum
 COLISÃO;PRMYJ;SBTC;05/01/2019;16:51;Decolagem;Nenhum
-COLISÃO;PRGXE;SBGL;05/01/2019;12:59;Subida;Nenhum,outros
+COLISÃO;PRGXE;SBGL;05/01/2019;12:59;Subida;Nenhum e outros
 AVISTAMENTO;;SBKP;05/01/2019;06:30;Revisão de pista;Nenhum
 AVISTAMENTO;;SBGL;05/01/2019;06:42;Inspeção de trânsito/intervoo;Nenhum
 COLISÃO;PROCI;SBBR;05/01/2019;10:40;Inspeção de trânsito/intervoo;Nenhum
